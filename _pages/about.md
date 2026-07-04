@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a [DDSA](https://ddsa.dk) PhD Fellow applying Machine Learning to radiation detectors at DTU Space. My current focus is on exploring Bayesian methods in predicting recoil electron paths within high-energy (MeV) semiconductor detectors
+I'm a [DDSA](https://ddsa.dk) PhD Fellow at [DTU Space](https://www.space.dtu.dk/english) applying Machine Learning to radiation detectors. My current focus is on exploring Bayesian methods in predicting recoil electron paths within high-energy (MeV) semiconductor detectors. In my previous work I developed Neural Networks for signal processing in the [i-RASE Project](https://i-rase.dtu.dk).
